@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec474ff7-0f11-427c-b200-75996dc5c834" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Um1YYgbSK1lQERZ69oi15BK8tn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/thread/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workFiles\idea_workspace" />
+      <recent name="E:\workFiles\idea_workspace\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workFiles\idea_workspace\thread\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WindowsTest2">
+    <configuration name="MyThread2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.thread.MyThread2Main" />
+      <module name="idea_workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.thread.MyThreadMain" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.exer.ThreadTest" />
+      <module name="idea_workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.thread.WindowsTest" />
+      <module name="idea_workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowsTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.thread.WindowsTest2" />
+      <module name="idea_workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WindowsTest2" />
+        <item itemvalue="Application.WindowsTest" />
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.MyThreadMain (1)" />
+        <item itemvalue="Application.MyThread2Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES,SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec474ff7-0f11-427c-b200-75996dc5c834" name="Default Changelist" comment="" />
+      <created>1575947005323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575947005323</updated>
+      <workItem from="1575947009685" duration="5528000" />
+      <workItem from="1575953993315" duration="7223000" />
+      <workItem from="1575994638046" duration="1426000" />
+      <workItem from="1576044308840" duration="7031000" />
+      <workItem from="1576054869136" duration="165000" />
+      <workItem from="1576055053148" duration="289000" />
+      <workItem from="1576055365506" duration="1186000" />
+      <workItem from="1576504547215" duration="3675000" />
+      <workItem from="1576647103644" duration="659000" />
+      <workItem from="1576660681801" duration="777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Project_Structure" timestamp="1576055557575">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1576055557575" />
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1576049488524">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1576049488524" />
+    <state x="397" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576054653793">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="397" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1576054653793" />
+    <state width="1323" height="580" key="GridCell.Tab.0.bottom" timestamp="1576508851473">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="580" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576508851473" />
+    <state width="1323" height="580" key="GridCell.Tab.0.center" timestamp="1576508851473">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="580" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576508851473" />
+    <state width="1323" height="580" key="GridCell.Tab.0.left" timestamp="1576508851473">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="580" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576508851473" />
+    <state width="1323" height="580" key="GridCell.Tab.0.right" timestamp="1576508851473">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="580" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576508851473" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1575953957443">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1575953957443" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1575953957443">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1575953957443" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1575953957443">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1575953957443" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1575953957443">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1575953957443" />
+    <state x="191" y="0" key="SettingsEditor" timestamp="1576048908970">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="191" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576048908970" />
+    <state x="404" y="110" width="555" height="524" key="StructurePopup" timestamp="1576048974013">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="404" y="110" width="555" height="524" key="StructurePopup/0.0.1366.738@0.0.1366.738" timestamp="1576048974013" />
+    <state x="80" y="87" width="1182" height="554" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576055156701">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="80" y="87" width="1182" height="554" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1576055156701" />
+    <state x="368" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1576660687588">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="368" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1576660687588" />
+    <state x="359" y="0" width="647" height="738" key="find.popup" timestamp="1576506447442">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="359" y="0" width="647" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1576506447442" />
+    <state x="115" y="0" key="new project wizard" timestamp="1576055623657">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="115" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1576055623657" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1576508651417">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1576508651417" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/idea_workspace$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1575953651057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.study.java.*</FILTER>
+    </SUITE>
+  </component>
+</project>
